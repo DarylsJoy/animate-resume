@@ -101,7 +101,6 @@ html{
 }
 .resumeEditor h2{
   display: inline-block;
-  border-bottom: 1px solid;
   font-size: 30px;
   margin: 1em 0 .5em;
 }
