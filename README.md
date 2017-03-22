@@ -1,6 +1,7 @@
 # animate-resume
 
-> my animate resume
+> 我的动态简历  
+<a href="http://daryldong.com/animateresume/" target="_blank">点我</a>
 
 ## Build Setup
 
